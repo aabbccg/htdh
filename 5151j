@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+main(張宸浩(\n) {
+
+    printf("hello world");
+}
