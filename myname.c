@@ -2,6 +2,6 @@
 
 main() {
 
-    printf(張子浩\n);
+    printf(張宸浩\n);
 }
 
